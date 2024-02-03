@@ -103,5 +103,7 @@ https://publicapi.xiaoai.me/holiday/day
 |  年份 | 格式  |  链接 |
 | ------------ | ------------ | ------------ |
 |  2023 |  JSON | [2023](https://github.com/tomandjerry136/hodiday/blob/main/data/2023.json "2023") |
+|  2023 |  SQL | [2023](https://github.com/tomandjerry136/hodiday/blob/main/data/2023.sql "2023") |
 |  2024 |  JSON | [2024](https://github.com/tomandjerry136/hodiday/blob/main/data/2024.json "2024")  |
+|  2024 |  SQL | [2023](https://github.com/tomandjerry136/hodiday/blob/main/data/2024.sql "2023") |
 
