@@ -52,7 +52,7 @@ https://publicapi.xiaoai.me/holiday/year
 https://publicapi.xiaoai.me/holiday/month
 ```
 例如
-[https://publicapi.xiaoai.me/holiday/month?date=2024-01](https://publicapi.xiaoai.me/holiday/year?date=2024-01 "https://publicapi.xiaoai.me/holiday/year?date=2024-01")
+[https://publicapi.xiaoai.me/holiday/month?date=2024-01](https://publicapi.xiaoai.me/holiday/month?date=2024-01 "https://publicapi.xiaoai.me/holiday/year?date=2024-01")
 
 ### 响应示例
 ```
@@ -99,4 +99,9 @@ https://publicapi.xiaoai.me/holiday/day
 }
 ```
 # 源数据
+## JSON 格式
+|  年份 | 格式  |  链接 |
+| ------------ | ------------ | ------------ |
+|  2023 |  JSON |  https://github.com/tomandjerry136/hodiday/blob/main/data/2024.json |
+|  2024 |  JSON | [2024](https://github.com/tomandjerry136/hodiday/blob/main/data/2024.json "2024")  |
 
