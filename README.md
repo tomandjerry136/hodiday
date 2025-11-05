@@ -110,6 +110,6 @@ https://publicapi.xiaoai.me/holiday/day
 |  2024 |  SQL | [2024](https://github.com/tomandjerry136/hodiday/blob/main/data/2024.sql "2024") |
 |  2025 |  JSON | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2025.json "2025")  |
 |  2025 |  SQL | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2025.sql "2025") |
-|  2026 |  JSON | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.json "2026")  |
-|  2026 |  SQL | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.sql "2026") |
+|  2026 |  JSON | [2026](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.json "2026")  |
+|  2026 |  SQL | [2026](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.sql "2026") |
 
