@@ -1,6 +1,6 @@
 # Chinese Hodiday API
-中国法定节假日信息，查询日期从2023-01-01开始，每年进行更新最新日期。
-
+中国法定节假日信息，查询日期从 2023-01-01 开始，每年进行更新最新日期。
+[最近更新] 2025 年 11 月 5 日 已更新 2026 年信息
 # 使用说明
 * 长期维护
 * 开源免费
@@ -108,4 +108,6 @@ https://publicapi.xiaoai.me/holiday/day
 |  2024 |  SQL | [2024](https://github.com/tomandjerry136/hodiday/blob/main/data/2024.sql "2024") |
 |  2025 |  JSON | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2025.json "2025")  |
 |  2025 |  SQL | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2025.sql "2025") |
+|  2026 |  JSON | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.json "2026")  |
+|  2026 |  SQL | [2025](https://github.com/tomandjerry136/hodiday/blob/main/data/2026.sql "2026") |
 
