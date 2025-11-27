@@ -243,9 +243,9 @@
     "week_desc_cn": "星期日"
   },
   {
-    "daytype": 1,
+    "daytype": 3,
     "holiday": "国庆节调休",
-    "rest": 1,
+    "rest": 0,
     "date": "2026-09-20",
     "week": 0,
     "week_desc_en": "Sunday",
@@ -342,9 +342,9 @@
     "week_desc_cn": "星期三"
   },
   {
-    "daytype": 1,
-    "holiday": "国庆节",
-    "rest": 1,
+    "daytype": 3,
+    "holiday": "国庆节调休",
+    "rest": 0,
     "date": "2026-10-10",
     "week": 6,
     "week_desc_en": "Saturday",
