@@ -37,7 +37,7 @@ INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_e
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '端午节', 1, '2026-06-19', 5, 'Friday', '星期五');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '端午节', 1, '2026-06-20', 6, 'Saturday', '星期六');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '端午节', 1, '2026-06-21', 0, 'Sunday', '星期日');
-INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '国庆节调休', 1, '2026-09-20', 0, 'Sunday', '星期日');
+INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (3, '国庆节调休', 0, '2026-09-20', 0, 'Sunday', '星期日');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '中秋节', 1, '2026-09-25', 5, 'Friday', '星期五');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '中秋节', 1, '2026-09-26', 6, 'Saturday', '星期六');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '中秋节', 1, '2026-09-27', 0, 'Sunday', '星期日');
@@ -48,4 +48,4 @@ INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_e
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '国庆节', 1, '2026-10-05', 1, 'Monday', '星期一');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '国庆节', 1, '2026-10-06', 2, 'Tuesday', '星期二');
 INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '国庆节', 1, '2026-10-07', 3, 'Wednesday', '星期三');
-INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (1, '国庆节', 1, '2026-10-10', 6, 'Saturday', '星期六');
+INSERT INTO holiday ( `daytype`, `holiday`, `rest`, `date`, `week`, `week_desc_en`, `week_desc_cn` ) VALUES (3, '国庆节调休', 0, '2026-10-10', 6, 'Saturday', '星期六');
